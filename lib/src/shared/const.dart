@@ -1,0 +1,2 @@
+
+const kSavedRandomNumberConfigurationKey = 'saved_random_number_configuration';
